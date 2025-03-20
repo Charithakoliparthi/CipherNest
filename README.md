@@ -4,7 +4,7 @@
 
 This project implements a Cyber Threat Detection System using various machine learning algorithms and artificial neural networks. It detects and classifies cyber threats based on network event profiles. The project supports algorithms like SVM, KNN, Decision Trees, Random Forest, Naive Bayes, CNN, and LSTM.
 
-📌 Features
+# 📌 Features
 
 Data Preprocessing using TF-IDF
 
@@ -18,7 +18,7 @@ Performance Evaluation using Accuracy, Precision, Recall, and F1-Score
 
 Graphical Comparison of Model Performance
 
-🛠️ Installation
+# 🛠️ Installation
 
 Follow these steps to set up the project on your local machine.
 
@@ -34,19 +34,19 @@ Tkinter (for GUI)
 
 Keras and TensorFlow (for Neural Networks)
 
-Step 1: Clone the Repository
+# Step 1: Clone the Repository
 
-Step 2: Install Dependencies
+# Step 2: Install Dependencies
 
-Step 3: Run the Application
+# Step 3: Run the Application
 
-🗂️ Dataset
+# 🗂️ Dataset
 
 Use a CSV file with labeled network events. You can load the dataset using the Upload Train Dataset button in the application.
 
 Ensure the dataset has a labels column.
 
-🚀 How to Use
+# 🚀 How to Use
 
 Upload Dataset: Click on Upload Train Dataset and select your dataset.
 
@@ -60,7 +60,7 @@ Evaluate Models: Check metrics such as accuracy, precision, recall, and F1-score
 
 Visualize Results: Generate graphs for accuracy, precision, recall, and F-measure.
 
-📊 Model Comparison
+# 📊 Model Comparison
 
 You can compare model results using:
 
@@ -72,7 +72,7 @@ Recall Comparison Graph
 
 F-Measure Comparison Graph
 
-🧑‍💻 Technologies Used
+# 🧑‍💻 Technologies Used
 
 Python
 
@@ -86,17 +86,17 @@ Keras (TensorFlow Backend)
 
 Matplotlib (For Graphs)
 
-🏷️ License
+# 🏷️ License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-💬 Contact
+# 💬 Contact
 
 For any inquiries, feel free to reach out:
 
-Email: your-email@example.com
+Email: charithakoliparthi03@gmail.com
 
-GitHub: Your GitHub Profile
+GitHub: https://github.com/Charithakoliparthi
 
 ⭐ Don't forget to Star the repository if you found this project helpful!
 
